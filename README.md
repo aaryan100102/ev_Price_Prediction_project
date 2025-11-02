@@ -102,16 +102,6 @@ XGBoost – Advanced gradient boosting
 
 Joblib – Model saving/loading
 
-📁 Project Structure
-ev-project/
-│
-├── EV_data.csv                            # Dataset
-├── ev_analysis.ipynb                      # Main Jupyter Notebook with full code
-├── ev_price_predictor_randomforest.joblib # Trained Random Forest model
-├── ev_price_predictor_xgboost.joblib      # Trained XGBoost model
-├── ev_price_category_classifier.joblib    # Logistic Regression classifier
-└── README.md                              # Project overview (this file)
-
 🚀 Results
 
 The Random Forest and XGBoost models achieved high accuracy in predicting EV prices.
